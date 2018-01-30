@@ -1,0 +1,7 @@
+C:\Users\pauka\source\repos\Камень, ножницы, бумага\Камень, ножницы, бумага\bin\Debug\Камень, ножницы, бумага.exe.config
+C:\Users\pauka\source\repos\Камень, ножницы, бумага\Камень, ножницы, бумага\bin\Debug\Камень, ножницы, бумага.exe
+C:\Users\pauka\source\repos\Камень, ножницы, бумага\Камень, ножницы, бумага\bin\Debug\Камень, ножницы, бумага.pdb
+C:\Users\pauka\source\repos\Камень, ножницы, бумага\Камень, ножницы, бумага\obj\Debug\Камень, ножницы, бумага.csprojResolveAssemblyReference.cache
+C:\Users\pauka\source\repos\Камень, ножницы, бумага\Камень, ножницы, бумага\obj\Debug\Камень, ножницы, бумага.csproj.CoreCompileInputs.cache
+C:\Users\pauka\source\repos\Камень, ножницы, бумага\Камень, ножницы, бумага\obj\Debug\Камень, ножницы, бумага.exe
+C:\Users\pauka\source\repos\Камень, ножницы, бумага\Камень, ножницы, бумага\obj\Debug\Камень, ножницы, бумага.pdb
